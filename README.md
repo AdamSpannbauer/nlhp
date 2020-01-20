@@ -15,17 +15,17 @@ Data gathered from [bradleyboehmke's `harrypotter` R package on GitHub](https://
 #### Output
 
 <p align='center'>
-  <img src='wordclouds/Ravenclaw.png' width='75%'>
+  <img src='wordclouds/Ravenclaw.png' width='90%'>
 </p>
 
 <p align='center'>
-  <img src='wordclouds/Hufflepuff.png' width='75%'>
+  <img src='wordclouds/Hufflepuff.png' width='90%'>
 </p>
 
 <p align='center'>
-  <img src='wordclouds/Slytherin.png' width='75%'>
+  <img src='wordclouds/Slytherin.png' width='90%'>
 </p>
 
 <p align='center'>
-  <img src='wordclouds/Gryffindor.png' width='75%'>
+  <img src='wordclouds/Gryffindor.png' width='90%'>
 </p>
