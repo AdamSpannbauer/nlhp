@@ -1,0 +1,7 @@
+jupyter
+spacy
+requests
+bs4
+pandas
+lxml
+tqdm

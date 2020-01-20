@@ -1,5 +1,6 @@
-# HP books
+# HP book full text
 text
+data/parsed_books
 
 # PyCharm
 .idea
