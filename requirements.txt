@@ -9,3 +9,6 @@ tqdm
 scikit-image
 wordcloud
 matplotlib
+umap-learn
+tensorflow
+tensorflow_hub
