@@ -1,4 +1,5 @@
 jupyter
+nb_black
 spacy
 requests
 bs4
